@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # movieDb-submit
 # movieDb-submit
 # movie_details
+# movie_details
