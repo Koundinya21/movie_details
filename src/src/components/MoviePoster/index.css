@@ -1,0 +1,79 @@
+.poster-card-container {
+  background-color: #161717;
+  background-size: cover;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+.inner-items {
+  display: flex;
+  align-items: center;
+}
+.img-content {
+  display: flex;
+  flex-direction: row;
+}
+.runtime-genres {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.original-img {
+  height: 180px;
+  width: 120px;
+  border-radius: 8px;
+}
+.names {
+  padding: 10px;
+}
+.title-original {
+  color: white;
+  font-size: 28px;
+  font-weight: 500px;
+  margin-bottom: 0px;
+}
+.ratings {
+  color: #4682b4;
+  font-size: 22px;
+  font-weight: 400px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.runtime {
+  color: white;
+  margin-right: 2px;
+  font-size: 10px;
+  width: 50px;
+}
+.release-date {
+  color: white;
+  font-weight: 350px;
+  margin-top: 0px;
+}
+.pad {
+  padding: 10px;
+}
+.overview {
+  color: white;
+  font-weight: 400px;
+  font-size: 28px;
+  margin-top: 5px;
+}
+.para {
+  color: white;
+  font-weight: 350px;
+}
+.list-genres {
+  color: white;
+  padding-right: 5px;
+  font-size: 10px;
+}
+.content-genres {
+  display: flex;
+  list-style-type: none;
+  margin-left: 0px;
+  font-weight: 10px;
+}
+.poster-img-fellow {
+  width: 60%;
+}

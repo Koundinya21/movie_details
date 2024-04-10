@@ -1,0 +1,28 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.img {
+  width: 130px;
+  height: 180px;
+  border-radius: 8px;
+}
+.title {
+  color: #b2beb5;
+  font-size: 15px;
+  width: 130px;
+  font-weight: 400px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+.rating {
+  color: #b2beb5;
+  font-size: 15px;
+  font-weight: 300px;
+  margin-top: 0px;
+}
+.align {
+  text-align: center;
+}

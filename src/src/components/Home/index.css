@@ -1,0 +1,8 @@
+.bg-container {
+  background-color: #262626;
+  background-size: cover;
+  margin-top: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -1,0 +1,18 @@
+.caste-img {
+  width: 90px;
+  height: 120px;
+  border-radius: 8px;
+}
+.item-caste {
+  padding: 10px;
+}
+.name-caste {
+  color: white;
+  font-size: 12px;
+  font-weight: 400px;
+}
+.character-name {
+  color: white;
+  font-size: 10px;
+  width: 80px;
+}
